@@ -2,4 +2,5 @@
 ========================
 
 网站：http://sjzshanrentang.tk
-微博："@sjzshanrentang"http://weibo.com/sjzshanrentang
+
+微博：[@sjzshanrentang](http://weibo.com/sjzshanrentang)
