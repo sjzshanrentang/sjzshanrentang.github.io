@@ -1,0 +1,40 @@
+html, body {
+	height: 101%;
+}
+
+.dl-address {
+	margin-top: 0px;
+}
+
+.dl-address dt {
+	width: 54px;
+}
+
+.dl-address dd {
+	margin-left: 64px;
+}
+
+#skills .label {
+	margin-right: 5px;
+}
+
+.anchor-title {
+	border-bottom: 1px solid #eee;
+	margin-bottom: 10px;
+}
+
+header .navbar {
+	width: 940px;
+	margin-bottom: 13px;
+	top: 0;
+	z-index: 999;
+}
+
+.banner {
+	margin-bottom: 7px;
+}
+
+.row .thumbnails {
+	margin-left: 0;
+	margin-bottom: 0;
+}
